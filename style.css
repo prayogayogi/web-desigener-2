@@ -1,0 +1,53 @@
+.navbar {
+  background-color: #4dbda2;
+}
+
+.jum {
+  padding-top: 80px;
+  padding-bottom: 70px;
+  background-color: #eccc70;
+}
+
+.jum img {
+  width: 450px;
+  height: 450px;
+}
+
+.center img {
+  width: 480px;
+  height: 300px;
+
+}
+
+.awal {
+  margin-top: 80px;
+  background-color: #ecf3f3;
+}
+
+.awal .text {
+  color: #4dbda2;
+}
+
+.awal img {
+  width: 500px;
+  height: 450px;
+}
+
+.testimonial {
+  background-color: #ecf3f3;
+}
+
+.testimonial img {
+  width: 90px;
+  height: 90px;
+}
+
+.footer {
+  background-color: #4dbda2;
+  color: #ecf3f3;
+}
+
+.fo {
+  background-color: #44a892;
+  color: #ecf3f3;
+}
